@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fabsye
-- 👀 I’m interested in Architecture, Web Design, coding and Development
+- 👀 I’m interested in Architecture, Web Design, Coding and Development
 - 🌱 I’m currently learning Freecad
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
